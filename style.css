@@ -21,8 +21,10 @@ button{
     font-size: 3rem;
     
 }
-#bio{
-    
-    padding-top: 3rem;
-    padding-bottom: 2rem;
+#textarea{
+    height: 50px;
+    width: 200px;
+    padding-top: 50px;
+    padding-bottom: 80px;
+    margin-top: 50px;
 }
